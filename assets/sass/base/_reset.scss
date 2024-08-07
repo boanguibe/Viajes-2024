@@ -1,0 +1,19 @@
+body{
+    margin: 0 auto;
+    padding: 0;
+    font-family: 'Open Sans', sans-serif;
+    font-size: $font-size-base;
+    font-weight: $font-weight-base;
+    line-height: $line-height-base;
+    text-align: $body-text-align;
+}
+
+.color-primario{
+    color: $color-primario;
+}
+.color-secundario{
+    color: $color-secundario;
+}
+.bg-primario{
+    background-color: $bg-primario;
+}
