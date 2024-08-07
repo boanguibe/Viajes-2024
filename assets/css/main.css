@@ -11997,4 +11997,10 @@ hr {
   margin: 2rem 0;
   border: 1.5px solid #fff;
   opacity: 0.5;
+}
+
+.linea-card {
+  margin: 0;
+  border: 1.5px solid #495057;
+  opacity: 0.5;
 }/*# sourceMappingURL=main.css.map */
