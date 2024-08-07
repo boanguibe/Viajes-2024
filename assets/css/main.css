@@ -11991,4 +11991,10 @@ body {
 
 .bg-primario {
   background-color: #f1f1ec;
+}
+
+hr {
+  margin: 2rem 0;
+  border: 2px solid #f8f9fa;
+  opacity: 0.5;
 }/*# sourceMappingURL=main.css.map */
