@@ -1,0 +1,33 @@
+
+.testimonio{
+    margin-top: 3rem;
+    margin-bottom: 6rem;
+
+    &__titulo{
+        text-align: center;
+        font-weight: 500;
+    }
+    &__tarjetas{
+        margin-top: 3rem;
+        margin-bottom: 3rem;
+
+        &-box{
+            text-align: center;
+        }
+    }
+}
+
+
+.testimonio__parrafo{
+    text-align: center;
+    font-style: italic;
+}
+
+.testimonio__img{
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    border: 1px solid $color-primario;
+    border-radius: 50%;
+    margin-bottom: 1rem;
+}

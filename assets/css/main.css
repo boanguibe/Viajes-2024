@@ -12003,4 +12003,35 @@ hr {
   margin: 0;
   border: 1.5px solid #495057;
   opacity: 0.5;
+}
+
+.testimonio {
+  margin-top: 3rem;
+  margin-bottom: 6rem;
+}
+.testimonio__titulo {
+  text-align: center;
+  font-weight: 500;
+}
+.testimonio__tarjetas {
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+}
+.testimonio__tarjetas-box {
+  text-align: center;
+}
+
+.testimonio__parrafo {
+  text-align: center;
+  font-style: italic;
+}
+
+.testimonio__img {
+  width: 100px;
+  height: 100px;
+  -o-object-fit: cover;
+     object-fit: cover;
+  border: 1px solid #505270;
+  border-radius: 50%;
+  margin-bottom: 1rem;
 }/*# sourceMappingURL=main.css.map */
