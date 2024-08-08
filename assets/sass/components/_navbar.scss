@@ -1,0 +1,6 @@
+ /* Agrega fondo suave al navbar cuando se hace scroll */
+ .navbar-scroll {
+    background-color: rgba(32, 166, 164, 0.8); /* Color de fondo suave */
+    transition: background-color 0.3s; /* Transición suave */
+    
+}

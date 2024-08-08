@@ -12034,4 +12034,10 @@ hr {
   border: 1px solid #505270;
   border-radius: 50%;
   margin-bottom: 1rem;
+}
+
+/* Agrega fondo suave al navbar cuando se hace scroll */
+.navbar-scroll {
+  background-color: rgba(32, 166, 164, 0.8); /* Color de fondo suave */
+  transition: background-color 0.3s; /* Transición suave */
 }/*# sourceMappingURL=main.css.map */
